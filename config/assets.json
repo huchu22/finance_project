@@ -1,0 +1,64 @@
+{
+  "portfolio_holdings": {
+    "general_isa": {
+      "360750": {
+        "name": "TIGER 미국S&P500",
+        "category": "Core_Index_PR",
+        "account": "ISA / 일반",
+        "is_pension_safe_asset": false,
+        "underlying_index": "S&P 500 Index",
+        "dividend_type": "분기 분배금 지급형(PR)",
+        "tech_weight_pct": 32.0,
+        "description": "미국 대형주 500개 분산 투자, 분기별 현금 배당금 지급"
+      },
+      "379800": {
+        "name": "KODEX 미국S&P500TR",
+        "category": "Core_Index_TR",
+        "account": "ISA / 일반",
+        "is_pension_safe_asset": false,
+        "underlying_index": "S&P 500 Index",
+        "dividend_type": "배당 자동재투자형(TR)",
+        "tech_weight_pct": 32.0,
+        "description": "미국 대형주 500개 투자, 배당금 원천징수 없이 기준가에 자동 복리 재투자"
+      },
+      "458730": {
+        "name": "TIGER 미국배당다우존스",
+        "category": "Value_Dividend",
+        "account": "ISA / 일반",
+        "is_pension_safe_asset": false,
+        "underlying_index": "Dow Jones U.S. Dividend 100",
+        "dividend_type": "월 분배금 지급형",
+        "tech_weight_pct": 10.0,
+        "description": "10년 이상 배당성장 100개사, 고배당+가치주 중심 (빅테크 제외로 분산 효과 탁월)"
+      },
+      "465580": {
+        "name": "ACE 미국빅테크TOP7 Plus",
+        "category": "High_Growth_Tech",
+        "account": "ISA / 일반",
+        "is_pension_safe_asset": false,
+        "underlying_index": "Solactive US Big Tech Top 7 Plus",
+        "dividend_type": "저배당 / 시세차익형",
+        "tech_weight_pct": 95.0,
+        "description": "매그니피센트 7 (애플, MS, 구글, 아마존, 엔비디아, 메타, 테슬라) 70% 이상 초집중"
+      }
+    },
+    "retirement_pension": {
+      "284430": {
+        "name": "KODEX 200미국채혼합50",
+        "category": "Pension_Safe_Asset",
+        "account": "퇴직연금 (DC/IRP)",
+        "is_pension_safe_asset": true,
+        "underlying_index": "KOSPI 200 (약 40%) + 미국채 10년 선물 (약 60%)",
+        "dividend_type": "채권혼합 배당형",
+        "tech_weight_pct": 8.0,
+        "description": "퇴직연금 필수 30% 안전자산 인정 종목 중 주식 비중을 최대(약 40%)로 확보할 수 있는 핵심 ETF"
+      }
+    }
+  },
+  "fx": {
+    "USDKRW": {
+      "ticker": "USD/KRW",
+      "name": "원/달러 환율"
+    }
+  }
+}

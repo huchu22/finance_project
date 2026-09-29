@@ -1,0 +1,32 @@
+{
+  "360750": {
+    "name": "TIGER 미국S&P500",
+    "account": "ISA / 일반",
+    "shares": 20,
+    "buy_price": 24346
+  },
+  "379800": {
+    "name": "KODEX 미국S&P500TR",
+    "account": "ISA / 일반",
+    "shares": 9,
+    "buy_price": 22296
+  },
+  "458730": {
+    "name": "TIGER 미국배당다우존스",
+    "account": "ISA / 일반",
+    "shares": 61,
+    "buy_price": 14555
+  },
+  "465580": {
+    "name": "ACE 미국빅테크TOP7 Plus",
+    "account": "ISA / 일반",
+    "shares": 6,
+    "buy_price": 24225
+  },
+  "284430": {
+    "name": "KODEX 200미국채혼합50",
+    "account": "퇴직연금 (DC/IRP)",
+    "shares": 229,
+    "buy_price": 18725
+  }
+}
